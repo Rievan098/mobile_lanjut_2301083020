@@ -14,31 +14,31 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         home: Scaffold(
           appBar: AppBar(
-            title: Text("List Ketua Kelompok"),
+            title: Text("List Kelompok"),
           ),
           body: ListView(
 
             children: [
               ListTile(
-                title: Text("TRI RAHMA AGUSTIN"),
+                title: Text("BUDIONO SIREGAR"),
                 subtitle: Text("This is subtitle..."),
                 leading: CircleAvatar(),
                 trailing: Text("10:00 WIB"),
               ),
               ListTile(
-                title: Text("ESI PUTRIANI"),
+                title: Text("ENGGAR SUBADRIAH"),
                 subtitle: Text("This is subtitle..."),
                 leading: CircleAvatar(),
                 trailing: Text("11:00 WIB"),
               ),
               ListTile(
-                title: Text("ANDINI DWI PUTRI"),
+                title: Text("ALEX BEJIR"),
                 subtitle: Text("This is subtitle..."),
                 leading: CircleAvatar(),
                 trailing: Text("12:00 WIB"),
               ),
               ListTile(
-                title: Text("AULIA RAHMI"),
+                title: Text("AMBALABU"),
                 subtitle: Text("This is subtitle..."),
                 leading: CircleAvatar(),
                 trailing: Text("13:00 WIB"),

@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Text(
-            "Afdila Sandi",
+            "Rievan Hafillah",
             //maxLines: 2,
             //overflow: TextOverflow.ellipsis,
             style: TextStyle(
